@@ -10,7 +10,7 @@ El objetivo no es “reescribirlo todo”, sino **identificar el principio vulne
 
 ## Alumnos
 
-– ** Daniel Ruiz Fernández** - [@DaniRuiz273](https://github.com/DaniRuiz273)
+– **Daniel Ruiz Fernández** - [@DaniRuiz273](https://github.com/DaniRuiz273)
 
 ---
 
